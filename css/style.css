@@ -92,6 +92,7 @@ hr{
 .tic{
     display: inline-block;
     font-size: 30px;
+    color: green;
     text-align: center;
     line-height: 40px;
     height: 40px;
@@ -132,4 +133,25 @@ hr{
 
 .D{
     background-color: darkred;
+}
+
+.E{
+    background-color: deeppink;
+}
+
+.F{
+    background-color: olivedrab;
+}
+
+
+.to-do{
+    display: inline-block;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 0.05rem solid rgba(226, 9, 9, 0.856);
 }
