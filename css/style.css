@@ -70,6 +70,10 @@ hr{
     padding-left: 4rem;
 }
 
+.top{
+    padding-top: 2rem;
+}
+
 .new-task, .task{
     font-size: 2rem;
     font-family: 'Lato', sans-serif;
