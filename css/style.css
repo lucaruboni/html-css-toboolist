@@ -65,11 +65,17 @@ hr{
     margin-bottom: 2rem;
 }
 
+#inner-container{
+    width: 800px;
+    padding-left: 4rem;
+}
+
 .new-task, .task{
     font-size: 2rem;
     font-family: 'Lato', sans-serif;
     font-weight: 800;
-    padding-left: 4rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
 }
 
 #arrow{
@@ -77,9 +83,34 @@ hr{
     transform: rotate(90deg);
 }
 
+
 .circle-box{
-    height: 20px;
-    width: 20px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.tic{
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     border: 0.05rem solid green;
+
+}
+
+.task-text{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.side-task{
+    color: white;
+    font-size: 15px;
+    background-color: #1647f7;
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
 }
