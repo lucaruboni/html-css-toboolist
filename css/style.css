@@ -110,7 +110,26 @@ hr{
 .side-task{
     color: white;
     font-size: 15px;
-    background-color: #1647f7;
     padding: 0.6rem 1rem;
     border-radius: 8px;
+}
+
+.list{
+    padding-bottom: 3rem;
+}
+
+.A{
+    background-color: chocolate;
+}
+
+.B{
+    background-color: #1647f7;
+}
+
+.C{
+    background-color: chartreuse;
+}
+
+.D{
+    background-color: darkred;
 }
