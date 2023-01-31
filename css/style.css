@@ -82,7 +82,7 @@ hr{
     padding-top: 1rem;
 }
 
-#arrow{
+.arrow{
     display: inline-block;
     transform: rotate(90deg);
 }
